@@ -6,5 +6,6 @@
     </content>
     <orderEntry type="jdk" jdkName="SSH Python 3.12.2 dant@vm1" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="space0" />
   </component>
 </module>
