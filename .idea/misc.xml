@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="SSH Python 3.10.13 w-ssh-dant-dl0-ab8ffa1313304921a351cb5f4cb2f455@ssh.community.saturnenterprise.io" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (hf)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (dl)" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
   </component>
